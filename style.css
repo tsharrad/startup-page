@@ -1,0 +1,31 @@
+body {
+	background-image: url("drone2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.container {
+	align-items: center;
+}
+.jumbotron {
+	margin-top: 5%;
+	background-color: rgba(150, 181, 182, 0.25);
+}
+.display-4 {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bolder;
+	font-size: 4em;
+	text-align: center;
+}
+p {
+	font-family: 'Quicksand', sans-serif;
+	text-align: center;
+}
+.btn:hover {
+	transform: scale(1.1);
+}
+.butn {
+	justify-content: center;
+	margin-left: 45%;
+	margin-top: 21%;
+	}
